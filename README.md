@@ -32,7 +32,7 @@ This project analyzes sales data to understand overall business performance acro
 ## Files in This Repository
 - sales_analysis.ipynb — Python analysis
 - sales_analysis.sql — SQL queries
-- Dataset file (if applicable)
+- Dataset file 
 
 ## Conclusion
 This project demonstrates an end-to-end data analysis workflow, from data cleaning to insight generation, using multiple analytical tools.
